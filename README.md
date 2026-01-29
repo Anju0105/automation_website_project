@@ -1,5 +1,10 @@
 in resources folder add a file application.properties
 
+2.https://github.com/Pawan8085/Full-Stack-Ecommerce-Application
+
+
+
+
 spring.application.name=Ecom
 
 # Database Configuration
